@@ -1,0 +1,5 @@
+Clones of internal packages from elsewhere.
+
+[httprr](./httprr) - from golang.org/x/oscar/internal/httprr
+
+Licenses: all licenses are unchanged from original sources.
